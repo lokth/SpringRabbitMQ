@@ -1,0 +1,1 @@
+https://www.journaldev.com/11655/spring-rabbitmq?utm_source=website&utm_medium=sidebar&utm_campaign=Spring-Sidebar-Widget
